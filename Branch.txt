@@ -2,4 +2,6 @@ int a=5;
 int s=2;
 if (a+s>8){
 Console.WriteLine("sum>8");
+}else {
+Console.WriteLine("sum<8");
 }
